@@ -1,0 +1,22 @@
+.loginBox{
+    border:solid;
+    text-align: center;
+    margin: 25%;
+    padding: 10px;
+    background-color: black;
+    color: grey;
+}
+.loginTitle{
+    color:white;
+}
+.rounded{
+    border-radius: 25px;
+    border-color: rgb(57, 57, 236);
+    text-align: center;
+    margin: 5px;
+}
+input{
+    border-color: green;
+    background-color: black;
+    color: white;
+}
